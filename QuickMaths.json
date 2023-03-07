@@ -1,0 +1,12 @@
+{
+  "Author": "CentiZen",
+  "Name": "QuickMaths",
+  "Punchline": "A quick and dirty chatlog calculator. No need for any extra windows!",
+  "Description": "",
+  "InternalName": "QuickMaths",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "calc",
+    "calculator"
+  ]
+}
