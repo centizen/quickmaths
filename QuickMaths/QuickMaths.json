@@ -1,6 +1,7 @@
 {
   "Author": "CentiZen",
   "Name": "QuickMaths",
+  "Punchline": "Quick and dirty chatlog calculator",
   "Description": "Everyday man on the block. Smoke Trees.",
   "InternalName": "QuickMaths",
   "AssemblyVersion": "1.1.3",
