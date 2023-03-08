@@ -3,7 +3,7 @@
 
 A quick and dirty command line calculator for FFXIV. No need for any additional windows! 
 
-Currently only available as alpha test, to install add the following custom plugin repository. Will be submitting to first party repo shortly.
+Currently only available as alpha test, to install add the following custom plugin repository. 
 
 https://raw.githubusercontent.com/centizen/quickmaths/main/repo.json
 
