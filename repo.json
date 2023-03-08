@@ -13,13 +13,13 @@
       "CentiZen"
     ],
     "DalamudApiLevel": 8,
-    "IconUrl": "https://github.com/centizen/quickmaths/images/icon.png",
+    "IconUrl": "https://github.com/centizen/quickmaths/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1673872070,
     "DownloadCount": 41020,    
-    "DownloadLinkInstall": "https://github.com/centizen/quickmaths/releases/download/1.1.3/QuickMaths.zip",
-    "DownloadLinkTesting": "https://github.com/centizen/quickmaths/releases/download/1.1.3/QuickMaths.zip",
-    "DownloadLinkUpdate": "https://github.com/centizen/quickmaths/releases/download/1.1.3/QuickMaths.zip"
+    "DownloadLinkInstall": "https://github.com/centizen/quickmaths/latest.zip",
+    "DownloadLinkTesting": "https://github.com/centizen/quickmaths/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/centizen/quickmaths/latest.zip"
   }
 ]
