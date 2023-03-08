@@ -18,8 +18,8 @@
     "IsTestingExclusive": "False",
     "LastUpdated": 1673872070,
     "DownloadCount": 41020,    
-    "DownloadLinkInstall": "https://github.com/centizen/quickmaths/latest.zip",
-    "DownloadLinkTesting": "https://github.com/centizen/quickmaths/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/centizen/quickmaths/latest.zip"
+    "DownloadLinkInstall": "https://github.com/centizen/quickmaths/releases/download/release/latest.zip",
+    "DownloadLinkTesting": "https://github.com/centizen/quickmaths/releases/download/release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/centizen/quickmaths/releases/download/release/latest.zip"
   }
 ]
